@@ -1,5 +1,7 @@
 # How to install the bookmarklet
 
+
+THIS TUTORIAL WAS MADE ON FOR CHROME OS. HOWEVER, THE STEPS ARE STILL VERY SIMILAR ON OTHER OPERATING SYSTEMS AND YOU SHOULD BE ABLE TO FOLLOW ALONG STILL.
 1. Click the School Specialty vX under Releases tab in the right middle of the screen.
 ![Step 1](https://user-images.githubusercontent.com/131900886/235788772-b298146e-3088-41d5-8ab1-9931b7e0e7e5.png)
 2. Click the SchoolSpecialtyBookmarklet.html file.
