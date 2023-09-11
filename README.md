@@ -18,10 +18,10 @@ THIS TUTORIAL WAS MADE ON FOR CHROME OS. HOWEVER, THE STEPS ARE STILL VERY SIMIL
 ![Step 7](https://user-images.githubusercontent.com/131900886/235790244-5455194f-cfb9-4945-b667-4cbce2f232e8.png)
 8. Now delete the now empty folder that says Imported.
 ![Step 8](https://user-images.githubusercontent.com/131900886/235790521-3fe51c59-2575-4d11-a946-c491439b152c.png)
-Congratulations! You now have the School Specialty Bookmarklet installed on your browser. Just click the School Specialty folder and you should see a bunch of other folders. Click your desired folder and click any of the bookmarks inside to use them.
+Congratulations! You now have the School Specialty Bookmarklet installed on your browser. Just click the School Specialty folder and you should see a bunch of other folders. Click your desired folder and click any of the bookmarklets inside to use them.
 ![image](https://user-images.githubusercontent.com/131900886/235790750-c1152a12-7d67-471f-89d0-9b61d471f783.png)
 They look like this.
 WARNING: Some bookmarks may not work!!! Also, they do not work on all web pages, like the new tab page for instance.
-
+WARNING: SPPBookmarklet is not responsible for anyone getting in trouble with supervisors, as this is made just for fun. Also, it is very possible you may be blacklisted from using some accounts on specific websites when using some bookmarklets (ex. Blooket Hacks), so be careful, and report any bans as an issue with the specific bookmarklet. Enjoy!
 
 HAVE FUN!!!
